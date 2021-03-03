@@ -1,0 +1,4 @@
+Mar 03, 2021 8:25:02 AM com.wiremock.WiremockService.WiremockServiceApplication copyFilesFromJar
+INFO: Found Resource: file [C:\Users\user\Desktop\WiremockService\build\resources\main\__files\response.json]
+Mar 03, 2021 8:25:02 AM com.wiremock.WiremockService.WiremockServiceApplication copyFilesFromJar
+INFO: Found Resource: file [C:\Users\user\Desktop\WiremockService\build\resources\main\mappings\getRequest.json]

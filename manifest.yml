@@ -1,0 +1,8 @@
+applications:
+  -  name: wiremockService
+     path: build/libs/*.jar
+     buildpack: java_buildpack_offline
+     services:
+       -  wiremockService
+     memory: 1GB
+     instances: 1

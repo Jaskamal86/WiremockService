@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://api.sunrise-sunset.org/json/([a-zA-Z0-9=&-]*)"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "response.json"
+  }
+}
